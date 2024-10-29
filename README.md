@@ -45,6 +45,9 @@ El objetivo de este trabajo práctico es aplicar los conocimientos de minería d
    - Analizar parámetros como número de vecinos, métrica de distancia, y valor de `p`.
    - Evaluar el modelo en ambos conjuntos de test con las métricas de evaluación.
 
+## Ejecución
+Para ejecutar y probar este trabajo, simplemente accede al notebook en Google Colab y ejecuta las celdas en orden. Esto permitirá replicar los análisis y modelos desarrollados en este proyecto sin necesidad de configuraciones adicionales en el entorno.
+
 ## Resultados y Conclusiones
 
 - Cada actividad está documentada con gráficos e interpretaciones sobre la validez de los resultados y la coherencia con las hipótesis previas.
